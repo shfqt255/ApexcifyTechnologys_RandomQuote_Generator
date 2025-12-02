@@ -11,5 +11,4 @@ This project was developed as part of an internship task assigned by Apexify Tec
 - Displays quote + author
 - Floating action button to load a new quote
 - Provider state management
-- Error handling
 - Lightweight and beginner-friendly code structure
