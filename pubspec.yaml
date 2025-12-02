@@ -1,0 +1,23 @@
+name: apexify_technolygs_task2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.0-162.1.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  http: ^1.6.0
+  fluttertoast: ^9.0.0
+  provider: ^6.1.5+1
+
+
+flutter:
+  uses-material-design: true
